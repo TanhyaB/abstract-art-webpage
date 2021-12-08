@@ -6,12 +6,12 @@ This is my solution to what I learnt in the CSS Crash Course.
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 
 ### Screenshot
 
-![](./index-page.png)
+![](./img/index-page.png)
 
 ### Links
 
