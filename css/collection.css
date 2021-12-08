@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-size: 18px;
+  /* background: ivory; */
+}
+
+h1,
+.header-title {
+  /* font-family: "Satisfy", cursive; */
+  font-size: 50px;
+  text-align: center;
+  margin: 20px;
+}
+
+.abstract-definition {
+  margin: 10px 15px;
+  font-size: 20px;
+}
+
+.header-call-to-action {
+  color: springgreen;
+}
+
+.container {
+  width: 750px;
+  margin-left: auto;
+  margin-right: auto;
+  /* border: 10px solid pink; */
+}
+
+.columns {
+  display: flex;
+
+  /* flex-direction: row; */
+}
+
+.container,
+.columns,
+div,
+.col,
+img {
+  align-items: center;
+  margin: 5px 10px 5px 15px;
+}
+
+figcaption {
+  text-align: center;
+}
